@@ -1,0 +1,13 @@
+
+
+{
+  "name": "milestone-pdf",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "live-server --port=3000"
+  },
+  "author": "Hira Shaikh",
+  "license": "ISC",
+  "description": "A static Resume Builder project"
+}
